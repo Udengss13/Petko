@@ -65,6 +65,6 @@ if($email != false && $password != false){
     <button type="button" class="btn btn-light"><a href="logout-user.php">Logout</a></button>
     </nav>
     <h1 class="text-capitalize">Welcome <?php echo $fetch_info['first_name'] ." " .$fetch_info['last_name'] ?></h1>
-    
+    <h1>heloo worlldddd</h1>
 </body>
 </html>
